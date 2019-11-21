@@ -13,7 +13,6 @@ public class Player {
     public Player() {
 
     }
-
     public String getFirstName() {
         return firstName;
     }
